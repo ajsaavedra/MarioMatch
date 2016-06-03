@@ -15,7 +15,7 @@ Eclipse will display a warning that says that your project "overlaps the locatio
 
 Give your project the directory name, and now Eclipse will let you click on the "Next" button to continue configuration of your project.
 
-# How to play
+## How to play
 
 To start a new game, simply click the New Game button. You may quit the game at any time.
 
