@@ -7,9 +7,7 @@ Using a 2-dimensional array of panels, the game lays down the cards and the play
 
 This project repo is ready to be used from Eclipse.
 
-In Eclipse go to: File/New/Project
-
-Select Java
+In Eclipse go to: File/New/Project. Select Java.
 
 Un-check "Use default location" and then click Browse and navigate to the top level directory with contains your source, libs, configs, etc.
 
