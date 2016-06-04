@@ -215,7 +215,7 @@ public class MarioMatch extends JFrame
 								playerScore.setText("Total score: " + ++totalScore);
 								GameSound.setSongFileToPlay("coin");
 							} else {
-								int delayTime = 700;
+								int delayTime = 500;
 								Timer myTimer = new Timer(delayTime, new ActionListener() {
 									public void actionPerformed(ActionEvent e) {
 										cardsChosen[1].setFaceUp(false);
@@ -228,7 +228,7 @@ public class MarioMatch extends JFrame
 								myTimer.start();
 							}
 							
-							int delayTime = 700;
+							int delayTime = 500;
 							Timer myTimer = new Timer(delayTime, new ActionListener() {
 								public void actionPerformed(ActionEvent e) {
 									selected = 0;
